@@ -1,0 +1,22 @@
+.classtype{
+    color:black;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: #ff000080;
+    font-size:18px;
+}
+
+.classtype.classtwo{
+    font-size:32px;
+}
+
+#titleone{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:36px;
+}
+
+#titletwo{
+    color: black;
+    font-weight: bold;
+    background-color: hsl(120,100%, 75%)
+}
